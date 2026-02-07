@@ -1,0 +1,2 @@
+# Classification-of-Urban-Zones-Based-on-Transport-Equity-and-Accessibility
+This project classifies 41,729 urban zones across Great Britain into three accessibility categories using K-Means clustering on public transport data. By analyzing travel times to essential services (employment, healthcare, education, retail), i identified 896 priority zones with low accessibility requiring transport infrastructure investment. 
