@@ -10,18 +10,6 @@ This project classifies 41,729 urban zones across Great Britain into three acces
 2. Features: 11 travel time indicators
 3. Validation: Random Forest (99.5%), XGBoost (99.7%)
 
-## Results
-- **High accessibility:** 88.6% of zones
-- **Medium:** 9.3%
-- **Low:** 2.1% (896 zones need intervention)
-- Priority areas: Haringey, Southwark
-
-## Files
-- `classified_zones.csv` - All zone classifications
-- `priority_zones.csv` - Low-accessibility zones
-- `accessibility_model.pkl` - Trained model
-- `*.png` - Visualizations
-- `accessibility_map.html` - Interactive map
 
 ## Install & Run
 ```bash
